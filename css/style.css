@@ -1,0 +1,22 @@
+
+h1 {
+    color: rgb(212, 26, 26);
+}
+
+h2 {
+    color: rgb(165, 108, 42);
+}
+
+.pesq {
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
